@@ -4,7 +4,7 @@
 >The premise of this project is to a network for users who enjoy music and have them be able to log information in their profile about certain artist,songs and trends that they like while also helping users with find new songs/artist.
 
 ## Technologies used
->Will will be created with CSS/bootstrap, Javascript, Node and Liquid express
+>Will will be created with CSS/bootstrap, Javascript, Node, mongoose and express
 
 ## API utilized
 >Project will be built by the help of last.fm API
