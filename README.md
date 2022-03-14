@@ -12,7 +12,7 @@
 > https://www.last.fm/api
 
 ## Installations needed
->npm i express mongoose method-override liquid-express-views dotenv morgan
+>npm i express mongoose method-override liquid-express-views dotenv morgan node-fetch
 
 
 ## MVP of the project
