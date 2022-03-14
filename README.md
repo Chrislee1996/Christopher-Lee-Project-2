@@ -35,8 +35,8 @@
 >A delete & edit button should also be available incase the user changes their mind
 
 ## Models needed (so far)
-> User model for logging in 
 > Comment model so users can share their thoughts on artist/songs 
+> A favorite artist(or songs) that a user can have in their profile sharing their favorite songs/albums
 
 ## Stretch goals
 >Outputted artist should show a link to a some songs of the artist through youtube 
