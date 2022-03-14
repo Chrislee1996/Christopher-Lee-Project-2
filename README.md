@@ -14,6 +14,8 @@
 ## Installations needed
 >npm i express mongoose method-override liquid-express-views dotenv morgan node-fetch
 
+## User story
+> As a user, this application should be able to search for an own and the output will be artist similar to this artist. Also, the user should be able to search for albums and songs of an artist. 
 
 ## MVP of the project
 >Project will utilize CRUD and use RESTful routes. 
@@ -36,7 +38,11 @@
 
 ## Models needed (so far)
 > Comment model so users can share their thoughts on artist/songs 
+
 > A favorite artist(or songs) that a user can have in their profile sharing their favorite songs/albums
+
+>A users profile that only they can edit where they can share their favorite songs/albums
+
 
 ## Stretch goals
 >Outputted artist should show a link to a some songs of the artist through youtube 
